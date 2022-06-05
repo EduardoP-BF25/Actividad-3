@@ -1,0 +1,124 @@
+body{
+    width: 1000px;
+
+}
+
+header{
+    background-color:rgb(69, 94, 114);
+    width: 1000px;
+    height: 430px;
+}
+
+#tituloCur{
+    text-align: center;
+    width: 980px;
+    height: 60px;
+    padding: 10px;
+}
+
+#bloque1datos{
+    position: absolute;
+    width: 980px;
+    height: 350px;
+    padding: 10px;
+}
+
+#ImagenEd{
+    width: 260px;
+    height: 320px;
+    margin: 10px;
+
+}
+
+#SubDatosPer{
+    background-color: gray;
+    color: crimson;
+    position: absolute;
+    top: 10px;
+    left: 290px;
+    width: 670px;     
+    height: 30px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+table,th{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#InfPersonal{
+    background-color: rgb(168, 168, 168);
+    position: absolute;
+    top: 70px;
+    left: 290px;
+    width: 690px;     
+    height: 260px;
+    margin: 10px;
+
+}
+
+.Subtitulos{
+    background-color:gray;     
+    margin: 10px;
+    height: 30px;
+    padding: 10px;
+    color:crimson;
+
+
+
+}
+
+#SubtitulosLM{
+    margin: 10px;
+    height: 30px;
+    padding: 10px;
+    background-color: gray;
+    color:crimson;
+
+
+}
+
+#ContenidoLM{
+    margin: 10px;
+    height: 50px;
+    padding: 10px;
+    background-color: rgb(168, 168, 168);
+    
+  
+}
+
+#ContenidoOT{
+    margin: 10px;
+    height: 30px;
+    padding: 10px;
+    background-color: rgb(168, 168, 168);  
+}
+
+.Contenido{
+    margin: 10px;
+    height: 180px;
+    padding: 10px;
+    background-color: rgb(168, 168, 168);
+
+}
+
+#SubtituloAz{
+    color:rgb(10, 47, 114);
+    margin: 10px;
+    height: 30px;
+    padding: 10px;
+    background-color: gray;  
+}
+
+main{
+    position: absolute;
+    width: 1000px;
+    height: 1410px;
+    background-color:rgb(69, 94, 114);
+
+
+}
+

@@ -1,0 +1,60 @@
+
+header{
+    background-color:rgba(122, 103, 48, 0.701) ;
+    width: 1000px;
+    height: 70px;
+    padding: 10px;
+
+}
+
+main{
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 1000px;
+    padding: 10px;
+    
+
+}
+
+#Direccion{
+    width: 990px;
+    height: 70px;
+    padding: 10px;
+
+    
+
+}
+
+#LugarUbi{
+    background-color: rgba(122, 103, 48, 0.701);
+    width: 990px;
+    height: 30px;
+    padding: 10px;
+
+        
+}
+
+table,th{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+#Fecha{
+    background-color: antiquewhite;
+    width: 990px;
+    height: 70px;
+    padding: 10px;
+    
+
+}
+
+
+#registro{
+    background-color: antiquewhite;
+    width: 970px;
+    height: 80px;
+    padding: 20px;
+
+}
